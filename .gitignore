@@ -1,0 +1,4 @@
+bin/
+downloads/
+.helm
+.terragrunt-cache
